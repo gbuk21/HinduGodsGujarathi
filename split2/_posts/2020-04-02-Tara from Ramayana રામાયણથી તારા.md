@@ -134,3 +134,5 @@
 34) પંચકન્યાસ કોણ છે?
 
 અહલ્યા, દ્રૌપદી, કુંતી, તારા અને મંદોદરી
+
+[Next]({{ site.baseurl }}{% link  split2/_posts/2020-04-02-Mandodari from Ramayana રામાયણથી મંડદ.md %})
